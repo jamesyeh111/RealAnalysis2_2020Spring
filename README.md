@@ -10,8 +10,13 @@ This is the repository for saving my Math 136 materials.
 [Week 3](https://github.com/jamesyeh111/RealAnalysis2_2020Spring/tree/master/Week%203)
 
 --------------------
+My note
 
-[My note Week 1 - 4](https://github.com/jamesyeh111/RealAnalysis2_2020Spring/blob/master/math136%20week%201-4.pdf)
+[Week 1 - 4 Derivative](https://github.com/jamesyeh111/RealAnalysis2_2020Spring/blob/master/math136%20week%201-4.pdf) 
+
+[Week 5 - 8 Integration ](https://github.com/jamesyeh111/RealAnalysis2_2020Spring/blob/master/Math%20136%20week%205-8.pdf)
+
+[Week 9 Jordan Conten 0, Jordan Domain, Zero Extension Func..](https://github.com/jamesyeh111/RealAnalysis2_2020Spring/blob/master/math136%20temporary%20Mar%209.pdf) (before spring break)
 
 --------------------
 
