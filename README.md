@@ -13,6 +13,7 @@ This is the repository for saving my Math 136 materials.
 My note
 
 Week 1 - 5: Derivative, Chain Rule, Mean Value Theorem for function, General Implicit Function Theorem. (one dimension / higher dimension)
+
 Week 6 - 9: Darboux Sum, Integration, Archimedes Riemann Theorem, Mean Value Theorem for Integrals, Fundamental Theorem of Calculus, Darboux Sum Convergence Theorem, Riemann Sum Convergence Theorem, Generalized Rectangles, Jordan Domain, General Theorem for Integration 
 
 
