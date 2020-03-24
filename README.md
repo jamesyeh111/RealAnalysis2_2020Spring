@@ -17,12 +17,20 @@ Week 1 - 5: Derivative, Chain Rule, Mean Value Theorem for function, General Imp
 Week 6 - 9: Darboux Sum, Integration, Archimedes Riemann Theorem, Mean Value Theorem for Integrals, Fundamental Theorem of Calculus, Darboux Sum Convergence Theorem, Riemann Sum Convergence Theorem, Generalized Rectangles, Jordan Domain, General Theorem for Integration 
 
 
+
+
 [Week 1 - 4](https://github.com/jamesyeh111/RealAnalysis2_2020Spring/blob/master/math136%20week%201-4.pdf) 
 
 [Week 5 - 8](https://github.com/jamesyeh111/RealAnalysis2_2020Spring/blob/master/Math%20136%20week%205-8.pdf)
 
 [Week 9](https://github.com/jamesyeh111/RealAnalysis2_2020Spring/blob/master/math136%20temporary%20Mar%209.pdf) (before spring break)
 
+[Midterm 2 review_note]
+
 --------------------
 
 [Midterm 1 review](https://github.com/jamesyeh111/RealAnalysis2_2020Spring/blob/master/136s20r1.pdf)
+
+[Midterm 2 review](https://github.com/jamesyeh111/RealAnalysis2_2020Spring/blob/master/136s20r2.pdf)
+
+
