@@ -3,11 +3,23 @@ This is the repository for saving my Math 136 materials.
 
 [syllabus](https://github.com/jamesyeh111/Math136_RealAnalysis2_Tufts_2020Spring/blob/master/136s20schedule.pdf)
 
+--------------------
+Homework 
 [Week 1](https://github.com/jamesyeh111/RealAnalysis2_2020Spring/tree/master/Week%201/)
 
 [Week 2](https://github.com/jamesyeh111/RealAnalysis2_2020Spring/tree/master/Week%202)
 
 [Week 3](https://github.com/jamesyeh111/RealAnalysis2_2020Spring/tree/master/Week%203)
+
+[Week 7 A](https://github.com/jamesyeh111/RealAnalysis2_2020Spring/blob/master/136s20hw7A.pdf)
+[Week 7 B](https://github.com/jamesyeh111/RealAnalysis2_2020Spring/blob/master/136s20hw7B.pdf)
+
+--------------------
+My homework 
+
+[6A](https://github.com/jamesyeh111/RealAnalysis2_2020Spring/blob/master/Liuyi_HW6A.pdf)
+[6B](https://github.com/jamesyeh111/RealAnalysis2_2020Spring/blob/master/Liuyi_Ye_HW6B.pdf)
+
 
 --------------------
 My note
