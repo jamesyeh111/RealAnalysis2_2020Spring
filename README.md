@@ -3,7 +3,7 @@ This is the repository for saving my Math 136 materials.
 
 [syllabus](https://github.com/jamesyeh111/Math136_RealAnalysis2_Tufts_2020Spring/blob/master/136s20schedule.pdf)
 
---------------------
+-----------------------------------------
 Homework 
 [Week 1](https://github.com/jamesyeh111/RealAnalysis2_2020Spring/tree/master/Week%201/)
 
@@ -16,7 +16,16 @@ Homework
 
 [Week 8]
 
+
 --------------------
+
+[Midterm 1 review](https://github.com/jamesyeh111/RealAnalysis2_2020Spring/blob/master/136s20r1.pdf)
+
+[Midterm 2 review](https://github.com/jamesyeh111/RealAnalysis2_2020Spring/blob/master/136s20r2.pdf)
+
+
+
+-----------------------------------------
 My homework 
 
 [6A](https://github.com/jamesyeh111/RealAnalysis2_2020Spring/blob/master/Liuyi_HW6A.pdf)
@@ -36,7 +45,6 @@ Week 6 - 9: Darboux Sum, Integration, Archimedes Riemann Theorem, Mean Value The
 
 
 
-
 [Week 1 - 4](https://github.com/jamesyeh111/RealAnalysis2_2020Spring/blob/master/math136%20week%201-4.pdf) 
 
 [Week 5 - 8](https://github.com/jamesyeh111/RealAnalysis2_2020Spring/blob/master/Math%20136%20week%205-8.pdf)
@@ -45,10 +53,5 @@ Week 6 - 9: Darboux Sum, Integration, Archimedes Riemann Theorem, Mean Value The
 
 [Midterm 2 review_note](https://github.com/jamesyeh111/RealAnalysis2_2020Spring/blob/master/math136r2_note.pdf)
 
---------------------
-
-[Midterm 1 review](https://github.com/jamesyeh111/RealAnalysis2_2020Spring/blob/master/136s20r1.pdf)
-
-[Midterm 2 review](https://github.com/jamesyeh111/RealAnalysis2_2020Spring/blob/master/136s20r2.pdf)
 
 
