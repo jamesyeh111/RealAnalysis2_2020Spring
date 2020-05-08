@@ -4,17 +4,7 @@ This is the repository for saving my Math 136 materials.
 [syllabus](https://github.com/jamesyeh111/Math136_RealAnalysis2_Tufts_2020Spring/blob/master/136s20schedule.pdf)
 
 -----------------------------------------
-Homework 
-[Week 1](https://github.com/jamesyeh111/RealAnalysis2_2020Spring/tree/master/Week%201/)
 
-[Week 2](https://github.com/jamesyeh111/RealAnalysis2_2020Spring/tree/master/Week%202)
-
-[Week 3](https://github.com/jamesyeh111/RealAnalysis2_2020Spring/tree/master/Week%203)
-
-[Week 7 A](https://github.com/jamesyeh111/RealAnalysis2_2020Spring/blob/master/136s20hw7A.pdf)
-[Week 7 B](https://github.com/jamesyeh111/RealAnalysis2_2020Spring/blob/master/136s20hw7B.pdf)
-
-[Week 8]
 
 
 --------------------
@@ -24,26 +14,17 @@ Homework
 [Midterm 2 review](https://github.com/jamesyeh111/RealAnalysis2_2020Spring/blob/master/136s20r2.pdf)
 
 
+[Final Review]
 
------------------------------------------
-My homework 
-
-[6A](https://github.com/jamesyeh111/RealAnalysis2_2020Spring/blob/master/Liuyi_HW6A.pdf)
-[6B](https://github.com/jamesyeh111/RealAnalysis2_2020Spring/blob/master/Liuyi_Ye_HW6B.pdf)
-
-[7A](https://github.com/jamesyeh111/RealAnalysis2_2020Spring/blob/master/math136-hw7-partA-Liuyi.pdf)
-[7B](https://github.com/jamesyeh111/RealAnalysis2_2020Spring/blob/master/Liuyi_Ye_HW7B_graded.pdf)
-
-[8](https://github.com/jamesyeh111/RealAnalysis2_2020Spring/blob/master/math136_hw8_Liuyi.pdf)
 
 --------------------
-My note
+Note
 
 Week 1 - 5: Derivative, Chain Rule, Mean Value Theorem for function, General Implicit Function Theorem. (one dimension / higher dimension)
 
 Week 6 - 9: Darboux Sum, Integration, Archimedes Riemann Theorem, Mean Value Theorem for Integrals, Fundamental Theorem of Calculus, Darboux Sum Convergence Theorem, Riemann Sum Convergence Theorem, Generalized Rectangles, Jordan Domain, General Theorem for Integration 
 
-
+Week 10 - 15:  Fubini's Theorem, Change of Variables and Derivatives under Uniform Convergence, Measure 0, Lebesgue’s Theorem, Improper Intergral, Complex Inner Product, Cauchy Schwarz Inequality for f/g in CIPS, Convergence in Mean, Orthogonal Families, Bessel’s Inequality, Parseval Theorem, Mean Completeness Theorem, Fourier Series Computation, Pointwise Convergence Theorem (Fourier Series)
 
 [Week 1 - 4](https://github.com/jamesyeh111/RealAnalysis2_2020Spring/blob/master/math136%20week%201-4.pdf) 
 
@@ -52,6 +33,7 @@ Week 6 - 9: Darboux Sum, Integration, Archimedes Riemann Theorem, Mean Value The
 [Week 9](https://github.com/jamesyeh111/RealAnalysis2_2020Spring/blob/master/math136%20temporary%20Mar%209.pdf) (before spring break)
 
 [Midterm 2 review_note](https://github.com/jamesyeh111/RealAnalysis2_2020Spring/blob/master/math136r2_note.pdf)
+
 
 
 
